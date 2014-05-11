@@ -84,5 +84,7 @@ y_lsv_pred = pd.Series(y_lsv_pred)
 y_lsv_pred.to_csv('LinearSVC_pred.csv', sep=',')
 
 
+y_lsv_pred
+
 
 
